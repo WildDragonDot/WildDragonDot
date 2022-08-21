@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @WildDragonDot
 - 👀 I’m interested in Programming and learn new Technology
-- 🌱 I’m currently learning MERN Full Stack Development
+- 🌱 I’m MERN Stack Developer
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 chandan.vishwakarma27@outlook.com
 
 <!---
 WildDragonDot/WildDragonDot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
