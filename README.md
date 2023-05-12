@@ -8,6 +8,6 @@
 WildDragonDot/WildDragonDot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WildDragonDot&theme=radical)
-- [![GitHub Streak](https://streak-stats.demolab.com?user=WildDragonDot&theme=dark)](https://git.io/streak-stats)
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WildDragonDot&theme=dark)](https://github.com/WildDragonDot/github-readme-stats)
+ ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WildDragonDot&theme=radical)
+ [![GitHub Streak](https://streak-stats.demolab.com?user=WildDragonDot&theme=dark)](https://git.io/streak-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WildDragonDot&theme=dark)](https://github.com/WildDragonDot/github-readme-stats)
