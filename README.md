@@ -63,6 +63,10 @@ I am a Full Stack Developer | Team Lead in Quadb <img src="https://media.giphy.c
 
 ---
 
+<!-- ### Connect:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=WildDragonDot" alt="WildDragonDot" /></a> </p>
+<br />
+
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
