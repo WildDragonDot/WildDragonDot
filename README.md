@@ -61,6 +61,15 @@ I am a Full Stack Developer | Team Lead in Quadb <img src="https://media.giphy.c
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WildDragonDot&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<!-- ### Connect: -->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=WildDragonDot" alt="WildDragonDot" /></a> </p>
+<br />
+
+### :writing_hand: Blog Posts :
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
 **I'm an Early 🐤** 
 
 ```text
@@ -114,11 +123,3 @@ TypeScript               3 repos             █░░░░░░░░░░�
 
 
 ---
-
-<!-- ### Connect: -->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=WildDragonDot" alt="WildDragonDot" /></a> </p>
-<br />
-
-### :writing_hand: Blog Posts :
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
